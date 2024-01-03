@@ -1,0 +1,527 @@
+ciudad_casa,ubicacion,zona,ventaoalquiler,descripespecif,metrajeconstruc,metrajeterreno,precio,unidadterreno,seguridad,piscina/jacuzzi,terraza,baños,parqueo,financiamiento,zon_comercial,areasocial
+Portoviejo,Tiburcio Macias Esquina,otras zonas / costa & galap.,VENTA,Casa,420.0,1800.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,2001 Y Calle Franco Dávila,gquil - centro,VENTA,Edificio,1784.0,400.0,630000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Tung. 1101 Y 10 De Agosto,gquil - centro,VENTA,Casa,300.0,400.0,135000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Quito,Autopista Los Chillos P.#4 Lt# 343,quito - periférico,VENTA,Casa,450.0,4000.0,290000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Manz. 198 Villa 24,gquil - ceibos & vía a la costa,VENTA,Casa,100.0,104.0,24000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Manz. 136 Villa 5,gquil - norte,VENTA,Casa,299.0,120.0,150000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,1.0
+Quito,La Peaña S16-396 Y Pallatanga Cdla Hierba Buena Ii,quito - centro&sur,VENTA,Casa,700.0,333.0,170000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Cerca Shell Kennedy Norte,gquil - norte,VENTA,Villa,455.0,720.0,300000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,1.0
+GUAYAQUIL,Frente A Parque,gquil - ceibos & vía a la costa,VENTA,CASA,500.0,670.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Estancias Del Río,gquil - samborondón,VENTA,Villa,190.0,460.0,190000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Frente A Riocentro,gquil - samborondón,VENTA,Casa,700.0,1360.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Isla Sol,gquil - samborondón,VENTA,Casa,850.0,900.0,600000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Al Pie Del Estero,gquil - norte,VENTA,Casa,650.0,2000.0,370000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Playas,Av. Sixto Chang. Mz 27(12). Solar 10,península & ruta del sol,VENTA,Casa,410.0,243.0,67500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,En El Mejor Sector,gquil - ceibos & vía a la costa,VENTA,CASA,370.0,300.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 4 Min Del Riocentro,gquil - samborondón,VENTA,Casa,550.0,830.0,500000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+SALINAS,A Dos Cuadras De La Playa,península & ruta del sol,ALQUILER,VILLA,500.0,3000.0,1750.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,La 13 Ava 417 Y Alcedo,gquil - sur,VENTA,Casa,400.0,400.0,150000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,5ta Entre C Y F Manz N Villa 18,gquil - sur,VENTA,Villa,230.0,240.0,115000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Via Capaes - Punta Blanca,península & ruta del sol,VENTA,Casa Duplex,75.0,100.0,35000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Sector Residencial,gquil - norte,VENTA,Casa,250.0,270.0,110000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Manta,Calle 19 N402 Y Ave 12,otras zonas / costa & galap.,VENTA,Casa,644.0,1118.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,V.e. Estrada (peatonal 1101) Entre Jiguas E Ilanes,gquil - norte,VENTA,Casa,280.0,153.0,92000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAS PALMAS,Pucara Azuay,otras zonas / sierra & oriente,VENTA,Finca,400.0,17.0,220000.0,Ha,0,0.0,0.0,1,0.0,0.0,0.0,0.0
+Quito,Tras El Hospital De Solca,quito - norte,VENTA,Casa,300.0,700.0,300000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Pocos Minutos De Riocentro,gquil - samborondón,VENTA,Villa,800.0,1380.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,1418 Y Ave. Del Ejercito Esquina. Barrio Orellana. Edificio Prolab,gquil - centro,VENTA,Edificio,1276.0,343.0,600000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Av.las Palmas 206 Y Calle 3era. Miraflores,gquil - norte,VENTA,Casa,1000.0,1000.0,290000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ave. 9na Y Calle 1era Km 7.5 Vía A Daule,gquil - norte,VENTA,Galpón,1128.0,1250.0,250000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Riobamba,Demetrio Aquilera Y Alejandro Carrion,otras zonas / sierra & oriente,VENTA,Casa,32031.0,28375.0,150000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Cuenca,Parroquia Solano,otras zonas / sierra & oriente,VENTA,Quinta,250.0,15.0,95000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urdesa,gquil - norte,VENTA,CASA,278.0,190.0,115000.0,m2.,0,0.0,1.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Río Grande Km 0.5. Sector Riocentro,gquil - samborondón,VENTA,Casa,430.0,459.0,300000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Cerca De La Plaza Dañín,gquil - norte,ALQUILER,CASA,500.0,478.0,1200.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Brisas Tv Solar 18 Manz B,península & ruta del sol,VENTA,Casa,100.0,300.0,65000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quito,Av. Mariscal Sucre,quito - norte,VENTA,Casa,580.0,480.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quito,Av. Progreso 1401 Y Novena Transversal,quito - periférico,VENTA,Casa,300.0,1200.0,375000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Por El Condor A 300 Mts De La Av Orellana,gquil - norte,VENTA,Club De Eventos,420.0,330.0,148000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Bogota 1008,gquil - sur,VENTA,Villa,650.0,550.0,225000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Aguirre 426 Y Entre Chile Y Chimborazo Frente A Cc Unicentro,gquil - centro,VENTA,Edificio,1500.0,211.0,580000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+GUAYAQUIL,Cimas,gquil - ceibos & vía a la costa,VENTA,VILLA,500.0,816.0,222000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Los Senderos,gquil - ceibos & vía a la costa,VENTA,VILLA,240.0,200.0,135000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,A 2 Min De Riocentro Ceibos,gquil - ceibos & vía a la costa,VENTA,CASA,500.0,500.0,250000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Aguirre 2204,gquil - centro,VENTA,Villa,750.0,1100.0,375000.0,m2,0,0.0,0.0,0,1.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Casa,380.0,600.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Villa,420.0,366.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Loja,Cdla Nuevo Amanecer,otras zonas / sierra & oriente,VENTA,Casa,180.0,274.0,46000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 2,gquil - samborondón,VENTA,Villa,700.0,2000.0,750000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1.5,gquil - samborondón,VENTA,Casa,700.0,1987.0,750000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3,gquil - samborondón,VENTA,Villa,270.0,300.0,185000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Hurtado 906 Y Tungurahua,gquil - centro,VENTA,Casa,903.0,298.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Matices,gquil - samborondón,VENTA,Villa,160.0,198.0,95000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,A 3 Min Riocentro Ceibos,gquil - ceibos & vía a la costa,ALQUILER,OFICINA,750.0,1615.0,6000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5,gquil - samborondón,VENTA,Villa,270.0,300.0,198000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Km. 5.5,gquil - norte,VENTA,LOCAL,1803.0,3747.0,1100000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cerca Iglesia Redonda,gquil - norte,VENTA,Villa,480.0,800.0,480000.0,m2,1,0.0,0.0,0,0.0,0.0,1.0,1.0
+Guayaquil,Cerca De P. Triangulo,gquil - norte,VENTA,Villa,450.0,810.0,200000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Cerca Policentro,gquil - norte,VENTA,Villa,356.0,630.0,175000.0,m2,0,0.0,0.0,2,0.0,0.0,0.0,0.0
+Guayaquil,Cerca P. Triangulo,gquil - norte,VENTA,Villa,400.0,457.0,250000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Frente Al Riocntro,gquil - samborondón,VENTA,Casa,621.0,1453.0,600000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,1ero. De Mayo,gquil - centro,VENTA,Villa,328.0,222.0,180000.0,m2,0,0.0,0.0,3,0.0,0.0,0.0,0.0
+Salinas,Inicio De La Ruta Del Sol,península & ruta del sol,VENTA,Villa,250.0,300.0,79500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Circunvalación Sur # 202 - 204,gquil - ceibos & vía a la costa,VENTA,Casa,480.0,500.0,200000.0,m2,1,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 24 Chongón,gquil - ceibos & vía a la costa,VENTA,Casa,120.0,7000.0,90000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 24 Chongón,gquil - ceibos & vía a la costa,VENTA,Casa,400.0,5375.0,130000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Esquinera. Frente A Parque,gquil - ceibos & vía a la costa,VENTA,Casa,720.0,600.0,300000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Manta,Vía Manta-montecristi,otras zonas / costa & galap.,VENTA,Fabrica,1500.0,4000.0,500000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Frente A La Playa. Diagonal Al Hotel Barceló,península & ruta del sol,VENTA,Casa,450.0,313.0,375000.0,m2,0,0.0,0.0,3,0.0,0.0,0.0,1.0
+Guayaquil,Km 8.5 Entre La Florida Y P. Jacome A 1 Cuadra Calle Principal Manz 328 Solar 8,gquil - norte,VENTA,Casa,136.0,143.0,62000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Manz 222 Villa 25,gquil - norte,VENTA,Casa,308.0,180.0,105000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Machala,Urb. Unioro,otras zonas / costa & galap.,VENTA,Casa,380.0,1200.0,249000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ideal Restaurantes,gquil - norte,VENTA,Casa,400.0,400.0,239000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Riobamba,Junin 19-28 Y Tarqui,otras zonas / sierra & oriente,VENTA,Casa,120.0,300.0,139000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Río Grande,gquil - samborondón,VENTA,Casa,357.0,366.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Terrasol,gquil - samborondón,VENTA,Casa,400.0,560.0,335000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Sur Oeste De La Ciudad,gquil - sur,VENTA,Casa,125.0,150.0,40000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Río Grande,gquil - samborondón,VENTA,Casa,480.0,475.0,380000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Casa,200.0,211.0,130000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Villa Club. Boreal Manz E Villa 2,gquil - samborondón,VENTA,Casa,82.0,152.0,56000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Lomas 1era 6007 Y Calle 1era,gquil - norte,VENTA,Casa,550.0,400.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Conjunto Menorca,gquil - ceibos & vía a la costa,VENTA,Casa,120.0,189.0,92000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cerca Parque Historico,gquil - samborondón,VENTA,Villa,310.0,500.0,295000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,El Rio,gquil - samborondón,VENTA,Villa,450.0,900.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Santa Cecilia,gquil - ceibos & vía a la costa,VENTA,VILLA,302.0,650.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Quito,Capelo Jardines De Las Flores,quito - periférico,VENTA,Casa,940.0,1000.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cerca Riocentro,gquil - samborondón,VENTA,Villa,500.0,520.0,260000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Manta,Frente A Estadio La Pradera,otras zonas / costa & galap.,VENTA,Casa,270.0,183.0,55000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Laguna Club,gquil - ceibos & vía a la costa,ALQUILER,Villa,730.0,1000.0,5500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5 Via Daule,gquil - norte,VENTA,Bodega,1078.0,1600.0,197000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Km. 22. Ciudad Los Angeles,gquil - ceibos & vía a la costa,VENTA,Casa,160.0,367.0,120000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Medardo Angel Silva 427 Y Chile - Recreo Viejo,gquil - norte,VENTA,Casa,240.0,312.0,19000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Las Cumbres,gquil - ceibos & vía a la costa,VENTA,Casa Duplex,166.0,171.0,115000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,CERCA PARQUE CEIBOS,gquil - ceibos & vía a la costa,VENTA,VILLA,550.0,956.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Casa,240.0,287.0,185000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Cañar,La Troncal-cochancay,otras zonas / sierra & oriente,VENTA,Complejo,20000.0,4.0,300000.0,Ha,0,0.0,0.0,1,0.0,0.0,0.0,0.0
+Quito,Chillo Jijon A 5 Minutos De C.c. San Luis,quito - periférico,VENTA,Casa,180.0,110.0,115000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 1 Min Riocentro,gquil - samborondón,VENTA,Dpto.,480.0,1082.0,600000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Edificio Vizcaya,gquil - ceibos & vía a la costa,VENTA,DPTO,113.0,113.0,93000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Balsamos,gquil - norte,VENTA,Casa,400.0,800.0,280000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5 Via Daule,gquil - norte,VENTA,Bodega,467.0,695.0,425000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urdesa Central,gquil - norte,VENTA,Villa,540.0,740.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Av. Carlos Julio Arosemena,gquil - norte,VENTA,Casa,280.44,40070.0,95000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Ruta del Sol,Ayampe,península & ruta del sol,VENTA,Casa,100.0,950.0,90000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Ruta del Sol,Lomas Ballenita,península & ruta del sol,VENTA,Casa,200.0,2000.0,150000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,1.0
+Naranjal,Av. Olmedo Y Guayaquil,otras zonas / costa & galap.,VENTA,Casa,230.0,111.0,83000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Cerca Clinica Kennedy,gquil - norte,VENTA,Edificio,988.0,648.0,490000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Villavicencio Y Cuenca. Esq.,gquil - centro,VENTA,Edificio,205.0,310.0,480000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Casa,171.0,191.0,118000.0,m2,1,0.0,0.0,0,1.0,0.0,0.0,0.0
+GUAYAQUIL,Las Cumbres,gquil - ceibos & vía a la costa,VENTA,CASA DUPLEX,168.0,138.0,115000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Babahoyo Entre Ballen Y 10 De Agosto,gquil - centro,VENTA,Casa,190.0,332.0,70000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Barrio Las Peñas,gquil - centro,VENTA,Casa,460.0,190.0,360000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Av. Carlos Luis Plaza Dañín,gquil - norte,VENTA,Local,329.08,866.0,400000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Santa Cecilia Mz A-x Sl.12,gquil - ceibos & vía a la costa,VENTA,Dpto.,210.0,158.0,93000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quito,Urb. Acosta Soberon,quito - periférico,VENTA,Casa,186.0,285.0,114990.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Ambato,Av Rodrigo Pachano N12-156,otras zonas / sierra & oriente,VENTA,Casa,311.0,319.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 8,gquil - samborondón,VENTA,Villa,204.0,450.0,190000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3,gquil - norte,VENTA,Bodega,1794.0,1812.0,580000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Via La Costa,gquil - ceibos & vía a la costa,VENTA,Casa,200.0,300.0,175000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Parroquia Colón,Calle Macias Y Portoviejo,otras zonas / costa & galap.,VENTA,Casa,12.0,1960.0,190000.0,Ha,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,El Tornero Km 2. Junto A La Uees,gquil - samborondón,VENTA,Casa,200.0,288.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Manta,Calle 105 Entre 108 Y 109,otras zonas / costa & galap.,VENTA,Hotel,200.0,240.0,200000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Manta,Hotel Cabañas Los Astilleros,otras zonas / costa & galap.,VENTA,Hotel,500.0,1500.0,400000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Circunvalación,gquil - norte,VENTA,Casa,500.0,2000.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Estancias Del Rio,gquil - samborondón,VENTA,Casa,194.0,390.0,169000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Tennis,gquil - samborondón,VENTA,Dpto.,635.0,635.0,743000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Lago De Capeira,gquil - norte,VENTA,Casa,1055.0,898.0,270000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Junto Al Mar,península & ruta del sol,VENTA,Villa,328.0,512.0,350000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+SALINAS,Punta Blanca,península & ruta del sol,VENTA,VILLA,210.0,700.0,180000.0,m2.,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Cordon Comercial,gquil - norte,VENTA,VILLA,350.0,560.0,215000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Por River Park,gquil - samborondón,VENTA,Casa,371.0,401.0,268530.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Ruta del Sol,Punta Blanca,península & ruta del sol,VENTA,Villa,140.0,250.0,45000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Punta Blanca,Punta Blanca,península & ruta del sol,ALQUILER,Villa,250.0,750.0,4500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Diagonal Riocentro,gquil - samborondón,VENTA,Casa,450.0,1250.0,450000.0,m2,1,0.0,0.0,0,1.0,0.0,0.0,0.0
+GUAYAQUIL,A 3 Min Del Riocentro,gquil - samborondón,VENTA,CASA,600.0,2332.0,1150000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 6,gquil - samborondón,VENTA,Villa,520.0,780.0,480000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Manta,Manta - Montecristi,otras zonas / costa & galap.,VENTA,Casa,250.0,2250.0,120000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 19,gquil - ceibos & vía a la costa,ALQUILER,Galpón,340.0,8190.0,2700.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,VILLA,596.0,1214.0,380000.0,m2.,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Sector San Marino,gquil - norte,VENTA,Villa,600.0,430.0,305000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 18,gquil - norte,VENTA,Fabrica,10000.0,32600.0,4200000.0,m2,0,0.0,0.0,2,0.0,0.0,0.0,0.0
+Guayaquil,Urb. Terrasol. Via A Samborondon,gquil - samborondón,VENTA,Casa,322.0,482.0,295000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km3. Urbanización Exclusiva,gquil - samborondón,VENTA,Villa,600.0,450.0,550000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Ruta del Sol,A 10 Minutos De Montañita,península & ruta del sol,VENTA,Casa,320.0,10000.0,150000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,600.0,820.0,315000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cdla. Santa Cecilia,gquil - ceibos & vía a la costa,VENTA,Casa,450.0,530.0,295000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Villanova,gquil - ceibos & vía a la costa,VENTA,Casa,145.0,225.0,110000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,A Una Cuadra De La Playa,península & ruta del sol,ALQUILER,Villa,150.0,500.0,600.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Casa,167.0,180.0,120000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Calles 6 De Marzo Y Francisco Segura Esquina,gquil - sur,VENTA,CASA,600.0,2000.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Casa,150.0,189.0,118000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Urb. Portofino (km 11.5),gquil - ceibos & vía a la costa,VENTA,Casa,195.0,307.0,144950.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 11,gquil - samborondón,VENTA,Villa,127.0,161.0,90000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Via Samborondon Km 5,gquil - samborondón,VENTA,Casa,250.0,290.0,190000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Muy Cerca Torres Norte,gquil - norte,VENTA,Villa,598.0,694.0,480000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Muy Cerca Torres Norte,gquil - norte,ALQUILER,Villa,598.0,520.0,3300.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quito,Eloy Alfaro,quito - norte,VENTA,Casa,350.0,700.0,260000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Sector Totalmente Cerrado,gquil - ceibos & vía a la costa,VENTA,CASA,600.0,450.0,200000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Santa Elena,Sector Museo Amantes De Zumpa,península & ruta del sol,VENTA,Casa,256.0,360.0,42000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Vía Samborondón,gquil - samborondón,VENTA,Villa,236.0,405.0,188000.0,m2,0,0.0,0.0,1,0.0,0.0,0.0,1.0
+Guayaquil,Aura,gquil - samborondón,VENTA,Villa,111.0,140.0,75000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,290.0,375.0,210000.0,m2,0,0.0,0.0,1,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Villa,133.0,180.0,89000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Palmar Del Río,gquil - samborondón,VENTA,Casa,539.0,609.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7.5 Vía A Daule,gquil - norte,VENTA,Fabrica,950.0,1100.0,1000000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Cimas,gquil - ceibos & vía a la costa,VENTA,VILLA,650.0,4500.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,ALQUILER,Casa,700.0,700.0,3500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Ciudad Celeste,gquil - samborondón,VENTA,CASA,240.0,311.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Avda Leopoldo Carrera,gquil - ceibos & vía a la costa,VENTA,CASA,300.0,280.0,190000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Santa Maria Casa Grande,gquil - samborondón,VENTA,Villa,190.0,366.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Bálsamos Norte,gquil - norte,VENTA,Casa,600.0,800.0,278000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Estancias Del Rio,gquil - samborondón,VENTA,Casa,230.0,426.0,175504.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Palmar Del Rio,gquil - samborondón,VENTA,Casa,380.0,750.0,395000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1 Via Samborondon,gquil - samborondón,VENTA,Villa,650.0,1050.0,490000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3,gquil - samborondón,ALQUILER,Villa,200.0,220.0,1000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,ALQUILER,Villa,380.0,320.0,1250.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Sector Mc Donalld Ceibos,gquil - ceibos & vía a la costa,VENTA,VILLA,548.0,460.0,300000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+GUAYAQUIL,Km 2,gquil - samborondón,VENTA,VILLA,398.0,500.0,360000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urb. La Joya,gquil - samborondón,ALQUILER,Casa,104.0,174.0,460.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Casa,115.0,220.0,155000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 6,gquil - samborondón,VENTA,Casa,415.0,495.0,365000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 9,gquil - samborondón,VENTA,Casa,300.0,600.0,380000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Km 9,gquil - samborondón,ALQUILER,Casa,300.0,600.0,3500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Casa,218.0,300.0,218000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3.5,gquil - samborondón,VENTA,Casa,290.0,350.0,270000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Casa Duplex,450.0,437.0,265000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+AZOGUES,Calle 16 Abril,otras zonas / sierra & oriente,VENTA,Edificio,435.0,235.0,260000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5,gquil - samborondón,ALQUILER,Villa,220.0,500.0,2000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5,gquil - samborondón,ALQUILER,Casa,370.0,700.0,3000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Palmar Del Rio,gquil - samborondón,VENTA,Villa,370.0,700.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quito,Calle H N49-34,quito - norte,VENTA,Casa,208.0,310.0,140000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Casa,447.0,532.0,390000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 87,gquil - ceibos & vía a la costa,VENTA,Finca,60.0,15.0,50000.0,Ha,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Casa,130.0,170.0,99000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Km 10,gquil - samborondón,VENTA,Casa,207.0,434.0,185000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cdla Los Ceibos,gquil - ceibos & vía a la costa,VENTA,Casa,750.0,2980.0,610000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,A 1 Minuto Riocentro,gquil - ceibos & vía a la costa,VENTA,VILLA,402.0,550.0,380000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Villa,1152.0,1729.0,760000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 2 Minutos Riocentro,gquil - ceibos & vía a la costa,ALQUILER,Villa,400.0,350.0,2800.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4 Via Samborondon,gquil - samborondón,VENTA,Casa,370.0,700.0,355000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4 Via Samborondon,gquil - samborondón,ALQUILER,Casa,370.0,700.0,3500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 7 Min Riocentro Ceibos,gquil - ceibos & vía a la costa,VENTA,Casa,200.0,300.0,150000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Villa,150.0,180.0,103000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,ALQUILER,Casa,765.0,500.0,3800.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 2,gquil - samborondón,VENTA,Casa,600.0,430.0,430000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Casa,620.0,680.0,570000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,ALQUILER,Casa,620.0,680.0,3200.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Casa,365.0,482.0,298000.0,m2,0,0.0,0.0,2,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Casa,260.0,258.0,175000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,VILLA,150.0,165.0,115000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Sector Ceibos. Cdla. Cerrada,gquil - ceibos & vía a la costa,VENTA,Casa,640.0,460.0,185000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Km 7.5 Via Samborondon,gquil - samborondón,VENTA,Casa,420.0,600.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Matices,gquil - samborondón,VENTA,Villa,147.0,217.0,92000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Manz. C # 33 A Lado Del Riocentro Sur,gquil - sur,VENTA,Casa,381.0,300.0,106000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 7 Min De Riocentro,gquil - samborondón,VENTA,Casa,240.0,240.0,200000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,1.0
+SALINAS,Inicio Ruta Del Sol,península & ruta del sol,ALQUILER,VILLA,250.0,300.0,700.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Cerca Del Mar,península & ruta del sol,ALQUILER,Villa,600.0,1500.0,2500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 2 Min De Riocentro,gquil - samborondón,VENTA,Casa,180.0,220.0,168000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,A 7 Min De Riocentro,gquil - samborondón,VENTA,Villa,240.0,300.0,195000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Entre Lagos,gquil - samborondón,VENTA,Casa,230.0,427.0,225000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+El triunfo,Via Duran Tambo,otras zonas / costa & galap.,VENTA,Restaurant,1800.0,1800.0,330000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Samborondon Km 7.5,gquil - samborondón,VENTA,Casa,700.0,710.0,480000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,La Puntilla,gquil - samborondón,VENTA,Casa,411.0,1650.0,525000.0,m2,0,0.0,0.0,762,0.0,0.0,0.0,0.0
+GUAYAQUIL,sector campus politécnica,gquil - ceibos & vía a la costa,ALQUILER,VILLA,400.0,248.0,1600.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Area Cerrada Con Guardianía,gquil - ceibos & vía a la costa,VENTA,CASA DUPLEX,255.0,270.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,ALQUILER,Casa,260.0,600.0,2000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 2 Minutos Hilton,gquil - norte,ALQUILER,Local,323.0,400.0,6000.0,m2,0,0.0,0.0,0,1.0,0.0,1.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Villa,100.0,170.0,82000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,700.0,710.0,595000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Bosques De Castilla,gquil - samborondón,ALQUILER,Villa,700.0,710.0,1300.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Pto.azul,gquil - ceibos & vía a la costa,VENTA,Villa,200.0,252.0,168000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Villa,360.0,450.0,270000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Muy Cerca Riocentro,gquil - samborondón,VENTA,Casa,490.0,500.0,280000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Villa,100.0,180.0,78000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urb. Torre Del Sol,gquil - samborondón,VENTA,Casa,408.0,555.0,265500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Circunvalacíon Sur 509,gquil - norte,VENTA,Casa,400.0,800.0,300000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Muy Cerca Riocentro,gquil - samborondón,ALQUILER,Villa,250.0,250.0,1300.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,269.0,210.0,178000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,270.0,454.0,255000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Lorenzo De Garaicoa 3624 Y Colombia,gquil - centro,VENTA,Casa,307.0,181.0,125000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cerca De La Comisión De Tránsito,gquil - norte,VENTA,Bodega,700.0,900.0,278000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ave. Agustin Freire,gquil - norte,VENTA,Local,440.0,220.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Rio Grande,gquil - samborondón,VENTA,Villa,600.0,800.0,470000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Km. 12 1/2,gquil - samborondón,VENTA,CASA,163.0,160.0,110000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km. 12,gquil - samborondón,VENTA,Casa,132.0,180.0,85500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Juncos 104,gquil - ceibos & vía a la costa,VENTA,Casa,192.0,250.0,120000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Bonanova,gquil - ceibos & vía a la costa,VENTA,Casa,180.0,250.0,159000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Laguna Dorada,gquil - samborondón,VENTA,Casa,800.0,1700.0,920000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Villa,350.0,600.0,390000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Ave. 18 Solar 12 Y 14 Mz 41x,península & ruta del sol,VENTA,Casa,100.0,500.0,45000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Manzana 873 Villa 36,gquil - ceibos & vía a la costa,VENTA,Casa,250.0,268.0,162000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 13.5 Via Aurora Samborondon,gquil - samborondón,VENTA,Villa,140.0,322.0,110000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quito,Conjuto Marianitas,quito - periférico,VENTA,Casa Duplex,78.0,82.0,35000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 2,gquil - samborondón,ALQUILER,Casa,280.0,700.0,2500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quevedo,La Mana,otras zonas / costa & galap.,VENTA,Plantel,3700.0,5600.0,260000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Villa,600.0,1090.0,540000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,La Puntilla,gquil - samborondón,VENTA,Villa,510.0,800.0,360000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,ALQUILER,Villa,596.0,1214.0,2900.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Portofino,gquil - ceibos & vía a la costa,VENTA,Villa,195.0,307.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Riberas Batan,gquil - samborondón,VENTA,Villa,350.0,750.0,380000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Portofino,gquil - ceibos & vía a la costa,VENTA,Villa,155.0,206.0,128300.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Villa,947.0,425.0,376000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7 Via Samborondon,gquil - samborondón,VENTA,Casa,300.0,500.0,398000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Riberas Batan,gquil - samborondón,VENTA,Villa,350.0,750.0,380000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Los Ceibos,gquil - ceibos & vía a la costa,VENTA,Casa,350.0,715.0,250000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Cuenca,Junto A La Escuela Borja,otras zonas / sierra & oriente,VENTA,Casa,283.0,268.0,145000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Santa Maria Casa Grande,gquil - samborondón,VENTA,Casa,152.0,175.0,105000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,ALQUILER,Villa,400.0,964.0,1700.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Quito,Guayllabamba,quito - periférico,VENTA,Hacienda,411.0,9237.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urb. Portofino,gquil - ceibos & vía a la costa,VENTA,Villa,155.0,17941.0,130000.0,m2,0,0.0,0.0,3,1.0,0.0,0.0,0.0
+Guayaquil,Terrasol,gquil - samborondón,VENTA,Villa,196.0,240.0,183000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,San Felipe,gquil - norte,VENTA,Casa,130.0,140.0,66000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Garzota,gquil - norte,VENTA,Casa,104.0,113.0,82000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Santa Maria De Casa Grande,gquil - samborondón,VENTA,Villa,250.0,360.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,La Ribera De Batán,gquil - samborondón,VENTA,Casa,350.0,750.0,425000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Matices,gquil - samborondón,VENTA,Casa,185.0,285.0,135000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Portafino,gquil - ceibos & vía a la costa,VENTA,Casa,155.0,280.0,125000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ensenada Mocoli,gquil - samborondón,VENTA,Casa,320.0,600.0,294950.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Zona Exclusiva,gquil - norte,VENTA,Villa,740.0,1300.0,500000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Zona Exclusiva,gquil - norte,VENTA,Villa,621.0,933.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Zona Residencial,gquil - norte,VENTA,Villa,320.0,906.0,230000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Colon Y Malecón,gquil - centro,VENTA,Edificio,1200.0,1200.0,1200000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,ALQUILER,Villa,500.0,926.0,3200.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,440.0,520.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Penins. Sta. Elena,Guayaquil Y 24 De Mayo,otras zonas / costa & galap.,ALQUILER,Edificio,276.0,132.0,3000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cerca Hilton,gquil - norte,VENTA,Villa,612.0,450.0,300000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Zona Residencial,gquil - norte,VENTA,Villa,298.0,400.0,190000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Sector Exclusivo,gquil - norte,VENTA,Villa,601.0,920.0,285000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Porton De Las Lomas,gquil - norte,VENTA,Villa,330.0,330.0,300000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 2.5 Santa Maria Iii,gquil - samborondón,VENTA,Dpto.,141.0,153.0,125000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3,gquil - samborondón,VENTA,Villa,450.0,535.0,455000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 8,gquil - samborondón,VENTA,Villa,247.0,370.0,185000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Av De La America 605 Y Calle 5ta.,gquil - norte,VENTA,Casa,355.0,625.0,480000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Mc Donald Ceibos,gquil - ceibos & vía a la costa,VENTA,VILLA,455.0,750.0,420000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Mc Donald Ceibos,gquil - ceibos & vía a la costa,VENTA,VILLA,380.0,500.0,280000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Cuenca,París Y Roma,otras zonas / sierra & oriente,VENTA,Casa,380.0,365.0,190000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Bahía de Caraquez,García Moreno 508 Y Esmeraldas,otras zonas / costa & galap.,VENTA,Casa,86.0,210.0,52000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,240.0,278.0,179000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Playas,Km. 9 1/2 Vía Data,península & ruta del sol,VENTA,Villa,250.0,500.0,85000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Castelago,gquil - samborondón,VENTA,Villa,440.0,1250.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 6,gquil - samborondón,ALQUILER,Casa,500.0,700.0,4000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Bucay,Km 83 Carretera Guayaquil Bucay,otras zonas / costa & galap.,VENTA,Finca,105.0,9721.0,75000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Sto. Domingo,Digonal Universidad Ogmandino,otras zonas / sierra & oriente,ALQUILER,Dpto.,120.0,10000.0,320.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Mc Donald Ceibos,gquil - ceibos & vía a la costa,VENTA,VILLA,550.0,815.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Calle E #205 Y Avda. Olimpo,gquil - norte,VENTA,Casa,300.0,200.0,140000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Casa Duplex,307.0,310.0,275000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,240.0,310.0,260000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urb. Riberas Del Batan,gquil - samborondón,VENTA,VILLA,320.0,750.0,390000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Km 9,gquil - samborondón,ALQUILER,Casa Duplex,380.0,352.0,1500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Casa,360.0,315.0,220000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Ciudadela Cerrada,gquil - ceibos & vía a la costa,VENTA,CASA DUPLEX,200.0,321.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,270.0,310.0,260000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,302.0,246.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,325.0,564.0,235000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Salinas,Manzana C Solar 24,península & ruta del sol,ALQUILER,Villa,162.0,220.0,1200.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,La Ensenada,gquil - samborondón,VENTA,Villa,330.0,644.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Vista Sol,gquil - samborondón,VENTA,Casa,230.0,316.0,206000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ceibos,gquil - ceibos & vía a la costa,VENTA,Casa,255.0,269.0,165000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urb. Vicrieel. Vía Samborondón Km 13.5 Frente Al Colegio Torremar,gquil - samborondón,VENTA,CASA,100.0,120.0,62000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Mz 12 V. 1,gquil - norte,VENTA,Villa,175.0,200.0,70000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,ALQUILER,Casa,360.0,315.0,1800.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Av. Jaime Roldos Aguilera S/n,gquil - norte,VENTA,Oficina,50.0,1200.0,78000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urb. El Condado. Via Samborondon Km. 14.5,gquil - samborondón,VENTA,CASA,140.0,199.0,100000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ubr.condado Via A Samborondon Km 14.5,gquil - samborondón,VENTA,Casa,110.0,133.0,67000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Sto. Domingo,Urbanización Privada,otras zonas / sierra & oriente,VENTA,Casa,500.0,785.0,250000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Avenida Comercial,gquil - norte,VENTA,Casa,320.0,480.0,255000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+GUAYAQUIL,Conjunto Privado,gquil - ceibos & vía a la costa,VENTA,CASA,168.0,138.0,115000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Las Cumbres,gquil - ceibos & vía a la costa,VENTA,CASA,400.0,800.0,218000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Lago De Capeira,gquil - norte,VENTA,Casa,648.0,901.0,150000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Lorenzo De Garaycoa 605 Y Urdaneta,gquil - centro,VENTA,Edificio,655.0,149.0,190000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Km 8,gquil - samborondón,VENTA,VILLA,490.0,576.0,470000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7 Via Samborondon,gquil - samborondón,VENTA,Casa,240.0,310.0,270000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Mz 179 V. 10,gquil - sur,VENTA,Casa,16730.0,9120.0,38000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Sector Municipio,península & ruta del sol,VENTA,Villa,234.0,500.0,119000.0,m2,0,0.0,0.0,0,1.0,0.0,0.0,0.0
+Guayaquil,Portofino,gquil - ceibos & vía a la costa,VENTA,Villa,220.0,550.0,225000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Km1 Via Samborondon,gquil - samborondón,VENTA,Casa Duplex,450.0,430.0,295000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Villa Club,gquil - samborondón,VENTA,Casa,111.0,140.0,75000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1 Via Samborondon,gquil - samborondón,VENTA,Casa,350.0,500.0,278000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1 Via Samborondon,gquil - samborondón,ALQUILER,Casa,350.0,500.0,2000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 7 Min De Riocentro,gquil - samborondón,VENTA,Villa,390.0,430.0,390000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 5min De Riocentro,gquil - samborondón,VENTA,Villa,466.0,531.0,450000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Isla Mocoly,gquil - samborondón,VENTA,Villa,380.0,708.0,385000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 7 Min De Riocentro,gquil - samborondón,VENTA,Casa,219.0,314.0,214000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste,gquil - samborondón,VENTA,Villa,200.0,220.0,95000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,La Laguna,gquil - samborondón,VENTA,Villa,196.0,350.0,218000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 8,gquil - samborondón,VENTA,Villa,250.0,320.0,186500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Zona Residencial,gquil - norte,VENTA,CASA DUPLEX,333.0,533.0,170000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1.5,gquil - samborondón,VENTA,Casa,390.0,500.0,360000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 7 Min De Riocentro,gquil - samborondón,VENTA,Villa,500.0,926.0,360000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 4 Min De Riocentro,gquil - samborondón,VENTA,Villa,640.0,960.0,550000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Cuenca,Via San Cristobal. Detras De Iglesia Guachun,otras zonas / sierra & oriente,VENTA,Finca,250.0,5000.0,150000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cdla. Esteros Mz 58 A1 Villa4,gquil - sur,VENTA,Casa,240.0,72.0,76000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Entre Ríos,gquil - samborondón,VENTA,Casa,380.0,250.0,165000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Portofino,gquil - ceibos & vía a la costa,VENTA,Casa,220.0,324.0,175000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Portofino,gquil - ceibos & vía a la costa,VENTA,Casa,220.0,324.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1 1/2,gquil - samborondón,VENTA,Villa,308.0,495.0,285000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km12,gquil - samborondón,VENTA,Villa,132.0,187.0,75000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7.5 Vìa A Samborondon,gquil - samborondón,VENTA,Casa,217.0,298.0,211000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4 Via Samborondon,gquil - samborondón,VENTA,Casa,220.0,300.0,240000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 6.5 Duran-tambo,gquil - norte,ALQUILER,Bodega,1200.0,1200.0,4800.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urbanización Santa Clara,gquil - norte,VENTA,Casa,87.0,61.0,20000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Jose Mascote Y Primero De Mayo,gquil - centro,VENTA,Villa,970.0,900.0,450000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Cerca La Espanola,gquil - norte,VENTA,Villa,110.0,180.0,67000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Colegio Aleman,gquil - norte,VENTA,Villa,300.0,500.0,173000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Quito,Urb. Copedac Lote 138,quito - periférico,VENTA,Casa,305.0,597.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,ALQUILER,Casa,240.0,360.0,2000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,400.0,964.0,250000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Playas,Km 9 1/2 Via Data,península & ruta del sol,VENTA,Casa,220.0,700.0,85000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Olon,Cabanas De Olon,península & ruta del sol,ALQUILER,Casa,85.0,490.0,700.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Riobamba,Calles: Teofilo Saenz Y Eduardo Kigman Mz ''d'' Casa 6,otras zonas / sierra & oriente,VENTA,Casa,225.0,555.0,200000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Sta Cecilia Mz14. Cerca Escuela Jefferson,gquil - ceibos & vía a la costa,VENTA,Dpto.,110.0,130.0,72000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Alborada Decima Etapa Ma 211b Villa 7,gquil - norte,ALQUILER,Dpto.,90.0,300.0,700.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Casa,180.0,250.0,168000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 20 Metros De Circunvalacion Sur.,gquil - norte,VENTA,Villa,650.0,2000.0,400000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cosmos,gquil - samborondón,VENTA,Casa,117.0,152.0,75000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Boungaville,gquil - samborondón,VENTA,Casa,185.0,270.0,169000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 8,gquil - samborondón,VENTA,Villa,220.0,320.0,170000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Calle Ingreso A Puerto Lucía,península & ruta del sol,ALQUILER,Villa,94.0,77.0,350.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Vía De Acceso A Puerto Lucía,península & ruta del sol,ALQUILER,Villa,88.0,105.0,350.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Alborada,gquil - norte,ALQUILER,Dpto.,70.0,300.0,500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urb. Laguna Del Sol,gquil - samborondón,VENTA,VILLA,230.0,453.0,250000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Cerca De Plaza Lago,gquil - samborondón,VENTA,Casa,251.0,315.0,214000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Cerca De Plaza Lago,gquil - samborondón,VENTA,Casa,251.0,299.0,211000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Cerca Plaza Lago,gquil - samborondón,VENTA,Villa,232.0,442.0,238000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cerca Plaza Lago,gquil - samborondón,VENTA,Villa,180.0,328.0,189800.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Estancias Del Rìo,gquil - samborondón,VENTA,CASA,228.0,333.0,195000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Estancias Del Rio,gquil - samborondón,VENTA,VILLA,250.0,330.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Milan,gquil - samborondón,VENTA,Casa,127.0,156.0,85000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Sta. Maria Casa Grande,gquil - samborondón,VENTA,VILLA,175.0,232.0,145000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Bonanova,gquil - ceibos & vía a la costa,VENTA,CASA,243.0,249.0,158000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Terranostra,gquil - ceibos & vía a la costa,VENTA,Casa,106.0,180.0,97000.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Av. Hno. Miguel A 2 Cuadras Del Aeropuerto Y A 2 Del Mall Del Sol,gquil - norte,VENTA,Condominio,740.0,240.0,220000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Entre Lagos,gquil - samborondón,VENTA,Casa,400.0,478.0,405000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Malecón,península & ruta del sol,VENTA,Casa,260.0,375.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 8,gquil - samborondón,VENTA,Villa,228.0,333.0,195000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Vista Al Rio,gquil - samborondón,VENTA,Casa,300.0,500.0,295000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3 1/2,gquil - samborondón,VENTA,Casa,190.0,250.0,165000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1 1/2,gquil - samborondón,VENTA,Villa,230.0,240.0,225000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Manta,Av Las Acasias Y Call Los Olivos,otras zonas / costa & galap.,VENTA,Casa,160.0,420.0,118000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Alborada Etapa 13,gquil - norte,VENTA,Casa,95.0,190.0,62000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Junto A Ciudad Colon - Frente A Bosque Del Salado.,gquil - norte,ALQUILER,Oficina,80.0,80.0,1100.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cerca Riocentro,gquil - samborondón,VENTA,Villa,321.0,300.0,215000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Mz 17a Villa 16,gquil - sur,ALQUILER,Dpto.,265.0,300.0,380.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Condominio Esquinero,gquil - sur,ALQUILER,Dpto.,100.0,100.0,360.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,A 3 Min Riocentro Ceibos,gquil - ceibos & vía a la costa,VENTA,OFICINA,750.0,1615.0,840000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Matices,gquil - samborondón,VENTA,Villa,134.0,186.0,75000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,La Puntilla,gquil - samborondón,ALQUILER,Casa Duplex,250.0,400.0,1500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5,gquil - samborondón,VENTA,Casa Duplex,153.0,170.0,140000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Las Camaras,gquil - norte,VENTA,Oficina,500.0,800.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Km 31/2 Via Samborondon,gquil - samborondón,VENTA,Casa,169.0,200.0,168000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+Guayaquil,Riberas De Batan,gquil - samborondón,VENTA,Villa,350.0,750.0,380000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 9,gquil - samborondón,VENTA,Villa,251.0,378.0,205000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Frente A Village,gquil - samborondón,VENTA,Villa,250.0,510.0,275000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Calle 5ta. No. 100 Y Malecon Del Salado (esq.),gquil - norte,VENTA,Villa,500.0,530.0,310000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Villa Club,gquil - samborondón,VENTA,Villa,118.0,157.0,77000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,8 Va Etapa,gquil - norte,VENTA,Villa,240.0,160.0,55000.0,m2,0,0.0,0.0,0,1.0,0.0,0.0,0.0
+GUAYAQUIL,Bellohorizonte,gquil - ceibos & vía a la costa,ALQUILER,CASA,220.0,240.0,850.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km. 12.5 Via Samborondon Mz5 Vill-37-38-39-40,gquil - samborondón,VENTA,Villa,14140.0,13125.0,81000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 11 1/2 Belohorizonte,gquil - ceibos & vía a la costa,VENTA,Casa,140.0,180.0,95000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Luque Y Escobedo,gquil - centro,VENTA,Edificio,1049.0,649.0,780000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Olympus,gquil - ceibos & vía a la costa,VENTA,VILLA,402.0,725.0,390000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Cerca Riocentro,gquil - samborondón,VENTA,VILLA,210.0,202.0,160000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,ALQUILER,Villa,495.0,430.0,2500.0,m2,0,0.0,0.0,1,0.0,0.0,0.0,0.0
+Guayaquil,A Pocos Min Riocentro,gquil - samborondón,VENTA,Casa,148.0,185.0,155000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Circunvalacion Norte,gquil - norte,VENTA,Casa,340.0,800.0,170000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Ruta del Sol,Frente Al Mar,península & ruta del sol,VENTA,Villa,400.0,1000.0,250000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,1.0
+Manta,Monterrey,otras zonas / costa & galap.,VENTA,Casa,240.0,600.0,110000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,VENTA,Casa,650.0,1200.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3 1/2,gquil - samborondón,VENTA,Villa,440.0,580.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 6,gquil - samborondón,VENTA,Casa,450.0,650.0,550000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 2,gquil - samborondón,VENTA,Casa,650.0,1850.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Plaza Real Km 1 1/2,gquil - samborondón,VENTA,Villa,240.0,240.0,225000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3 1/2,gquil - samborondón,VENTA,Villa,198.0,270.0,165000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Tennis Club,gquil - samborondón,VENTA,Villa,230.0,488.0,250000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5,gquil - samborondón,VENTA,Casa Duplex,153.0,170.0,140000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,400.0,1000.0,380000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1 1/2,gquil - samborondón,VENTA,Casa,240.0,240.0,220000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,220.0,300.0,211000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Villa,350.0,500.0,375000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Villa,700.0,1000.0,650000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+SALINAS,A 10 Minutos De Salinas,península & ruta del sol,ALQUILER,VILLA,150.0,400.0,1600.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Cdla. Santa Cecilia,gquil - ceibos & vía a la costa,VENTA,Casa Duplex,260.0,220.0,155000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Y Cap. Zaera A 1 Cuadra De Centro Civico Y Cerca De La Clinica Alcivar,gquil - centro,VENTA,Edificio,990.0,460.0,215000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 4,gquil - samborondón,ALQUILER,Casa,300.0,600.0,2000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Laguna Dorada,gquil - samborondón,ALQUILER,Villa,300.0,500.0,2500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 5,gquil - samborondón,ALQUILER,Villa,300.0,480.0,2500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A 15 Min De Riocentro,gquil - samborondón,VENTA,Casa,141.0,131.0,81000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Circunvalcion Sur Y Ebanos,gquil - norte,VENTA,Villa,400.0,400.0,300000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+GUAYAQUIL,Santa Cecilia,gquil - ceibos & vía a la costa,VENTA,CASA,300.0,600.0,160000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Casa,213.0,328.0,208000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Casa,179.0,328.0,189800.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Entrelagos,gquil - samborondón,VENTA,Villa,450.0,650.0,565000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 1,gquil - samborondón,VENTA,Casa,650.0,2000.0,600000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,366.0,482.0,315000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 2,gquil - samborondón,VENTA,Villa,1000.0,2000.0,1200000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 7,gquil - samborondón,VENTA,Villa,366.0,482.0,315000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Samborondon,gquil - samborondón,VENTA,Villa,380.0,750.0,550000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Santa Cecilia,gquil - ceibos & vía a la costa,VENTA,CASA,425.0,570.0,270000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,1.0
+GUAYAQUIL,Km 24 Vía A Daule,gquil - norte,VENTA,CASA,200.0,800.0,98000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,A 4 Cuadras Del Mar,península & ruta del sol,VENTA,Villa,230.0,500.0,119000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 11.5 Via Samborondon,gquil - samborondón,ALQUILER,Casa,110.0,130.0,380.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km13 Via A La Costa,gquil - ceibos & vía a la costa,ALQUILER,Casa,180.0,317.0,1300.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urb. Terranostra (km 13.5),gquil - ceibos & vía a la costa,VENTA,Villa,129.0,180.0,94950.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3.5,gquil - samborondón,VENTA,Casa,450.0,540.0,380000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Alta Gracia,gquil - norte,ALQUILER,Casa,150.0,120.0,400.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Terra Sol,gquil - samborondón,ALQUILER,Villa,490.0,576.0,3000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MANTA,Avenida 2 Entre Calle 11 Y 12,otras zonas / costa & galap.,VENTA,SUITE,174.0,0.0,102000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,KM 4,gquil - samborondón,VENTA,CASA,365.0,521.0,380000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Km 2.8,gquil - samborondón,VENTA,DPTO,118.0,0.0,125000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+SALINAS,Malecon Central,península & ruta del sol,VENTA,DPTO,178.0,0.0,125000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Sector Mc Donald Ceibos,gquil - ceibos & vía a la costa,VENTA,VILLA,300.0,350.0,135000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Canchas Tenis,gquil - norte,ALQUILER,DPTO,163.0,0.0,600.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Samborondon,gquil - samborondón,VENTA,VILLA,320.0,600.0,340000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 9.5 La Estela,gquil - samborondón,VENTA,Casa,177.0,180.0,103000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,A Una Cuadra De La Vía Terminal Pascuales,gquil - norte,VENTA,Casa,350.0,200.0,130000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,KM 3,gquil - samborondón,VENTA,CASA,350.0,500.0,370000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,KM 7,gquil - samborondón,ALQUILER,CASA,480.0,700.0,3000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,Mz A1 Villa 12,península & ruta del sol,VENTA,Casa,81.0,108.0,35000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urb. La Joya,gquil - samborondón,ALQUILER,Casa,104.0,136.0,430.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Samborondon,gquil - samborondón,VENTA,CASA,190.0,250.0,128000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urdesa Central,gquil - norte,VENTA,CASA,284.0,448.0,120000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Puerto Azul,gquil - ceibos & vía a la costa,ALQUILER,CASA,468.0,568.0,1700.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+SALINAS,Atrás del Súpermaxi,península & ruta del sol,ALQUILER,VILLA,60.0,80.0,250.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urdesa Central,gquil - norte,VENTA,CASA,217.0,480.0,270000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Alcedo 906 Entre J.antepara Y Garcia Moreno,gquil - centro,VENTA,Edificio,931.0,200.0,180000.0,m2,0,0.0,1.0,0,0.0,0.0,1.0,0.0
+GUAYAQUIL,Samborondon,gquil - norte,ALQUILER,CASA,190.0,300.0,1200.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Valencia Mz 2251 Villa13,gquil - norte,VENTA,Villa,92.0,72.0,45000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Belohorizonte,gquil - ceibos & vía a la costa,VENTA,Villa,178.0,400.0,158000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Calle 8va # 112 Entre Av. 1era Y Principal,gquil - ceibos & vía a la costa,ALQUILER,Villa,620.0,800.0,2500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,KM 5,gquil - samborondón,VENTA,CASA,365.0,500.0,465000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+SALINAS,Sector Puerto Lucía,península & ruta del sol,ALQUILER,VILLA,200.0,450.0,1000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 14 Via Samborondon,gquil - samborondón,VENTA,Dpto.,107.0,107.0,79000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayas,Km.58 Via Duran Triunfo,otras zonas / costa & galap.,VENTA,Casa,500.0,4000.0,450000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste ''la Serena'',gquil - samborondón,VENTA,Casa,245.0,250.0,170000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Ciudad Celeste La Ria Mz 1 Villa 2,gquil - samborondón,ALQUILER,Casa,122.0,183.0,550.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Calle 3ra.,gquil - samborondón,VENTA,Dpto.,85.0,97.0,88000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Mz. 104 Villa 19,gquil - norte,VENTA,Casa,110.0,120.0,65000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Quito,La Kennedy,quito - norte,VENTA,Dpto.,57.0,57.0,32000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Km 3 1/2 Urb Porto Acqua. Por Entrada Parq Magno,gquil - samborondón,ALQUILER,Dpto.,106.0,106.0,950.0,m2,1,0.0,0.0,0,0.0,0.0,0.0,0.0
+Libertad,Cautivo,península & ruta del sol,VENTA,Villa,420.0,400.0,320000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Alborada XIII,gquil - norte,VENTA,CASA,276.0,246.0,129000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Atrás De Comité De Los Ceibos,gquil - ceibos & vía a la costa,VENTA,Casa,290.0,600.0,199999.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,km 7,gquil - samborondón,VENTA,CASA,300.0,425.0,325000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Santa Cecilia,gquil - ceibos & vía a la costa,VENTA,CASA,170.0,308.0,75000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Altura Miraflores,gquil - norte,ALQUILER,Local,77.0,77.0,750.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Santa Cecilia,gquil - ceibos & vía a la costa,VENTA,CASA,350.0,385.0,155000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Urbanización Puerto Azul,gquil - ceibos & vía a la costa,VENTA,CASA,419.0,460.0,320000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Boungaville,gquil - samborondón,VENTA,CASA,200.0,225.0,169000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Cdla. Albatros,gquil - norte,VENTA,CASA,208.0,180.0,115000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,MATICES,gquil - samborondón,VENTA,CASA,140.0,160.0,82000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Entrerios,gquil - samborondón,ALQUILER,DPTO,110.0,183.0,450.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,LAS RIBERAS,gquil - samborondón,VENTA,CASA,312.0,275.0,198000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Salinas,A 2 Cuadras Del Tennis Club,península & ruta del sol,ALQUILER,Casa Duplex,42.0,300.0,300.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Av. Ejército 2315,gquil - centro,VENTA,Hotel,476.0,166.0,220000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Portoviejo,Chile 130 Y Pedro Gual,otras zonas / costa & galap.,VENTA,Edificio,600.0,510.0,640000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Calle Sexta,gquil - samborondón,VENTA,DPTO,110.0,183.0,68000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Samborondon,gquil - samborondón,ALQUILER,CASA DUPLEX,175.0,200.0,1000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Fuentes del Rio ,gquil - samborondón,VENTA,CASA,126.0,141.0,79000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Cdla. Los Ceibos Avenida Segunda #417 y calle septima,gquil - norte,VENTA,VILLA,700.0,1315.0,280000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Sector Centro Sur,gquil - centro,VENTA,Edificio,845.0,555.0,350000.0,m2,0,0.0,0.0,1983,0.0,0.0,0.0,0.0
+Playas,Playas,otras zonas / costa & galap.,VENTA,Casa,300.0,400.0,130000.0,m2,0,0.0,1.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urb. San Andrés,gquil - samborondón,ALQUILER,Dpto.,97.0,97.0,850.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Puerto Azul,gquil - ceibos & vía a la costa,VENTA,Villa,467.0,450.0,350000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GUAYAQUIL,Ciudad Colon,gquil - norte,VENTA,OFICINA,37.0,50.0,65000.0,m2.,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,Urbanizacion Milann,gquil - samborondón,VENTA,Casa,115.0,121.0,79500.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
+Guayaquil,811 Entre Esmeraldas Y Los Rios,gquil - centro,VENTA,Casa,328.0,222.0,180000.0,m2,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+Guayaquil,Km 4 1/2  Via A Samborondon,gquil - samborondón,VENTA,Casa,205.0,280.0,225000.0,m2,0,0.0,0.0,0,0.0,0.0,0.0,0.0
